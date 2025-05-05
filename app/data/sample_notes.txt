@@ -1,1 +1,17 @@
-Bu yasa, doğada var olan kesin bir simetriyi temsil eder: Kuvvetler daima çifttir ve bir nesne kendisine kuvvet uygulanmaksızın başka bir nesneye kuvvet uygulayamaz. Bu yasayı bazen ''aksiyon-reaksiyon'' ya da genellike ''etki-tepki'' olarak adlandırırız; burada uygulanan kuvvet etki ve deneyimlenen kuvvet tepkidir.
+Güneş Sistemi, Güneş ve onun etrafında dönen sekiz gezegen, onların uyduları, cüce gezegenler, asteroitler ve kuyruklu yıldızlardan oluşur.
+
+Güneş, sistemin merkezinde yer alır ve kütleçekimi sayesinde gezegenleri etrafında tutar. Güneş, hidrojen ve helyum gazlarından oluşur ve nükleer füzyonla enerji üretir.
+
+Güneş'e en yakın gezegen Merkür'dür. Küçük ve yüzeyi kraterlerle doludur. Ardından Venüs gelir, yoğun atmosferi nedeniyle yüzey sıcaklığı çok yüksektir.
+
+Dünya, yaşam barındıran tek gezegendir. Su, atmosfer ve manyetik alan gibi yaşamsal koşullara sahiptir.
+
+Mars, kızıl gezegen olarak bilinir. İnce atmosferi ve yüzeyinde eski nehir yataklarına dair izler vardır.
+
+Jüpiter, en büyük gezegendir ve gaz devidir. Büyük Kırmızı Leke adlı devasa bir fırtınaya sahiptir.
+
+Satürn, halkalarıyla ünlüdür. Bu halkalar buz ve kayadan oluşur.
+
+Uranüs ve Neptün, buz devleridir. Uranüs’ün eksen eğikliği çok fazladır. Neptün ise rüzgarlarıyla bilinir.
+
+Güneş Sistemi'nin dışında ise Oort Bulutu ve Kuiper Kuşağı yer alır.

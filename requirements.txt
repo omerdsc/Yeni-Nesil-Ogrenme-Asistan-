@@ -6,3 +6,6 @@ tiktoken
 fastapi
 uvicorn
 streamlit
+python-dotenv
+requests
+
