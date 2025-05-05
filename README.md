@@ -4,9 +4,9 @@ Kullanıcının kendi yüklediği notlardan doğal dilde sorular sorarak cevap a
 
 Bireysel öğrenmeyi hızlandıran, etkileşimli bir yapay zeka destekli sistem geliştirmek
 
-Terminalden
-   Backend’i şu komutla başlat: uvicorn app.main:app --reload ve tarayıcıdan http://127.0.0.1:8000/docs la fastapiye ekranına ulaşırız 
-  Frontend’i şu komutla başlat: streamlit run frontend/app.py otomatikmen tarayıcı ekranı açılması lazım eğer açılmaz ise http://localhost:8501 local adresi ile tarayıcıdan açabiliriz
+-----------------------------------------------------------------------Terminalden---------------------------------------------------------------------------
+Backend’i şu komutla başlat: uvicorn app.main:app --reload ve tarayıcıdan http://127.0.0.1:8000/docs bağlantsını yazarak  fastapi ekranına ulaşırız 
+Frontend’i şu komutla başlat: streamlit run frontend/app.py otomatikmen tarayıcı ekranı açılması lazım eğer açılmaz ise http://localhost:8501 local adresi ile tarayıcıdan açabiliriz
   
 Ama başlatmadan önce .env dosyası içerisine bir tane OPENAI_API_KEY amahtarı tanımlamalısınız eğer tanımlanmazsa herhangi bir sonuç döndürmeyecektir
 
